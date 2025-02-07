@@ -43,9 +43,15 @@ cd [Emirhan-Profil-Card]
 ```  
 
 
+
+
+
+
+
 ## Projeye Katkı Sağlama
 
-1. Projeyi forklayın
+
+1 Projeyi forklayın
 
 2. Yeni bir dal oluşturun (`git checkout -b ozellik/YeniOzellik`)
 
